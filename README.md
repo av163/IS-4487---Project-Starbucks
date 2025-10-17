@@ -1,2 +1,5 @@
 # IS-4487---Project-Starbucks
-Case Study Notebook - Starbucks 
+Group Members: 
+* Ashley Velazquez
+* Doom Allminhali
+* John Mora  
